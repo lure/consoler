@@ -2,8 +2,8 @@
 
 **How to run**
 1. make sure you have apache maven and java 8 installed. 
-2. cd springer directory, `mvn clean package`
-3. run application with `java -jar  ./target/springer-1.0-jar-with-dependencies.jar`
+2. cd to `consoler` directory, `mvn clean package`
+3. run application with `java -jar  ./target/consoler-1.0-jar-with-dependencies.jar`
  
 By default, two jar are built: one without any deps, and one with everything required to run.
 
